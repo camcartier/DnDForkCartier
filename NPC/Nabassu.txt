@@ -1,0 +1,2 @@
+Souffle de foudre (Recharge 5-6). Le dragon crache une tempête d'éclairs sur une ligne de 9 mètres de long et de 1,50 mètre de large. Chaque créature sur cette ligne doit effectuer un jet de sauvegarde de 
+Dextérité DD 12, subissant 22 (4d10) dégâts de foudre en cas d'échec, ou la moitié de ces dégâts en cas de réussite.

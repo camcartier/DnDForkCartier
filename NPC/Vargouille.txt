@@ -1,0 +1,1 @@
+Morsure. Attaque au corps à corps avec une arme : +5 au toucher, allonge 1,50 m, une cible. Touché : 8 (1d10 + 3) dégâts perforants + 3 (1d6) dégâts de foudre.
